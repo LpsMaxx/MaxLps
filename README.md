@@ -1,8 +1,8 @@
 Estudante de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro(UFRRJ)
 <div align="center">
-  <a href="https://github.com/MaxLps">
+  <a href="https://github.com/LpsMaxx">
   <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api?username=MaxLps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLps&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LpsMaxx&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Max-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
